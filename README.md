@@ -1,6 +1,6 @@
-﻿# Movie-Recommendation-System-API
+## Movie-Recommendation-System-API
 
-##About the project
+## About the project
 The project is a movie recommendation application that utilizes an API to provide responsive results. The app has been developed using HTML, CSS, Bootstrap, and Javascript, ensuring compatibility with various devices and screen sizes. With its user-friendly interface, the app allows users to discover movies they may be interested in based on their preferences.
 
 ## Live project link
